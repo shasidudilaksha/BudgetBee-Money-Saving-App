@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">BudgetBee</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_title1">Save Smart</string>
+    <string name="onboarding_desc1">Track your daily expenses easily</string>
+    <string name="onboarding_title2">Set Goals</string>
+    <string name="onboarding_desc2">Create money saving goals</string>
+    <string name="onboarding_title3">Achieve More</string>
+    <string name="onboarding_desc3">Stay motivated and achieve financial freedom</string>
+    <string name="get_started">Get Started</string>
+
+    <!-- Sign In -->
+    <string name="sign_in">Sign In</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+
+    <!-- Bottom Navigation -->
+    <string name="home">Home</string>
+    <string name="goals">Goals</string>
+    <string name="profile">Profile</string>
+
+    <!-- Home -->
+    <string name="welcome">Welcome to BudgetBee!</string>
+
+    <!-- Goals -->
+    <string name="goal_emergency">💰 Save for Emergency Fund</string>
+    <string name="goal_vacation">🎯 Vacation Savings Goal</string>
+
+    <!-- Profile -->
+    <string name="user_name">John Doe</string>
+    <string name="user_email">john@example.com</string>
+</resources>
